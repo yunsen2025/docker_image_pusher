@@ -1,1 +1,1 @@
-marseventh/cloudflare-imgbed
+marseventh/cloudflare-imgbed:latest
